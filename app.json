@@ -1,0 +1,75 @@
+{
+  "name": "YouTube-Downloader-Bot-V.2",
+  "description": "<< A telegram bot To Download Youtube Files Fully Free >>",
+  "logo": "https://telegra.ph/file/fe4379cb5ebf812e3379e.jpg",
+  "keywords": [ "Youtube" , "YoutubeDownloader" , "Alpha" , "free" , "bot" , "telegram" ],
+  "repository": "https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG",
+  "success_url": "https://github.com/SL-Alpha-X-Team",
+  "website": "",
+  "env": {
+  
+        "API_ID": {
+        "description": "Get this value from https://my.telegram.org",
+        "required": true,
+        "value": "enter api id here"
+        },
+        
+        "API_HASH": {
+        "description": "Get this value from https://my.telegram.org" ,
+        "required": true,
+        "value": "enter api hash here"
+        },
+        
+        "BOT_TOKEN": {
+        "description": "Get Bot Token From BotFather Bot",
+        "required": true,
+        "value": "enter bot token here"
+        },
+        
+        "GROUP_1_LINK": {
+        "description": "Customizeble group 1 link.",
+        "required": true, 
+        "value": "https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE"
+        },
+        
+        "GROUP_2_LINK": {
+        "description": "Customizeble group 2 link.",
+        "required": true,
+        "value": "https://t.me/telegrm_music9"
+        },
+        
+        "GROUP_1_NAME": {
+        "description": "Customizeble group 1 name.", "required": true,
+        "value": "🎄 Alpha-X-Community"
+        },
+        
+        "GROUP_2_NAME": {
+        "description": "Customizeble group 2 name.",
+        "required": true, 
+        "value": "✨️ Telegram-Group"
+        },
+        
+        "START_PIC": {
+        "description": "Customizeble start message pic.",
+        "required": true, 
+        "value": "https://telegra.ph/file/1f7e663e87e622b62260b.jpg"
+        },
+        
+        "HELP_PIC": {
+        "description": "Customizeble help message pic.",
+        "required": true, 
+        "value": "https://telegra.ph/file/0be9c898b243dd200bfd0.jpg"
+        }
+  },
+      "buildpacks": [
+        {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
+        {"url": "heroku/python"}
+    ],
+  "formation": {
+        "worker": {
+            "quantity": 1, 
+            "size": "free" 
+        }
+    },
+      "stack": "heroku-20"
+}
