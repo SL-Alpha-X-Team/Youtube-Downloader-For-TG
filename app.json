@@ -11,19 +11,19 @@
         "API_ID": {
         "description": "Get this value from https://my.telegram.org",
         "required": true,
-        "value": "enter api id here"
+        "value": ""
         },
         
         "API_HASH": {
         "description": "Get this value from https://my.telegram.org" ,
         "required": true,
-        "value": "enter api hash here"
+        "value": ""
         },
         
         "BOT_TOKEN": {
         "description": "Get Bot Token From BotFather Bot",
         "required": true,
-        "value": "enter bot token here"
+        "value": ""
         },
         
         "GROUP_1_LINK": {
