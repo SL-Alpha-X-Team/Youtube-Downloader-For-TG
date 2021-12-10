@@ -1,6 +1,6 @@
 <h1 align="center"><b>🍁 Fast & High Quality YT Downloader Bot For TG V.2 🚀</b></h1>
 
-![logo](https://telegra.ph/file/fe4379cb5ebf812e3379e.jpg)
+![logo](https://telegra.ph/file/f2fc2c81cd18c5ff542e8.jpg)
 <br>
 <p align="center"><b>
     Project YT DOWNLOADER Helps You To Download High Quality Videos From Youtube Fastly And All Are free Now
@@ -45,7 +45,7 @@
 <br>
 
 # 🔐 Available on Telegram As >> <br>
-<a href="https://t.me/XX_YT_DOWNLOADER_XX_BOT"><img src="https://img.shields.io/badge/SEE-TELEGRAM%20BOT-white.svg?logo=Telegram"></a>
+<a href="@Youtube_Downloader_AL4X_Bot"><img src="https://img.shields.io/badge/SEE-TELEGRAM%20BOT-white.svg?logo=Telegram"></a>
 
 <br>
 
