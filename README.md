@@ -45,7 +45,7 @@
 <br>
 
 # 🔐 Available on Telegram As >> <br>
-<a href="@Youtube_Downloader_AL4X_Bot"><img src="https://img.shields.io/badge/SEE-TELEGRAM%20BOT-white.svg?logo=Telegram"></a>
+<a href="https://t.me/Youtube_Downloader_AL4X_Bot"><img src="https://img.shields.io/badge/SEE-TELEGRAM%20BOT-white.svg?logo=Telegram"></a>
 
 <br>
 
